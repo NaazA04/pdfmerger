@@ -2,19 +2,6 @@
 
 A lightweight bash script utility that automatically merges PDF files from organized project directories. This tool streamlines the process of combining multiple PDF documents by batch-processing folders and generating timestamped merged outputs.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Examples](#examples)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-
 ## ✨ Features
 
 - **Automated Batch Processing**: Processes multiple project directories in a single run
